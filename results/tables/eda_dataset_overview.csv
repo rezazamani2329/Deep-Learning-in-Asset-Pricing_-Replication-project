@@ -1,0 +1,3 @@
+dataset,rows,columns,months,start,end
+Stock characteristics,1218555,48,600,1967-01-01,2016-12-01
+Macro,600,179,600,1967-01-01,2016-12-01

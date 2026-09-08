@@ -11,11 +11,17 @@ The central idea is to learn a **stochastic discount factor (SDF)** directly fro
 This project will progressively reproduce the main components of the original methodology, beginning with data preparation and benchmark models and then moving toward neural-network, recurrent-network, and adversarial asset-pricing models.
 
 ---
-## Author
+## Authors
 
 **Reza Zamani**
+
+
 **Hrafnhildur Líf**
+
+
 **Elouan Bahri**
+
+
 **Paraj**
 
 UC Berkeley

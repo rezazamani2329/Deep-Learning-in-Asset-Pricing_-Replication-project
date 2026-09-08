@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Raw / processed data
+data/raw/*
+data/processed/*
+data/external/*
+
+# Keep empty data folders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Temporary files
+*.tmp
+*.log

@@ -11,6 +11,17 @@ The central idea is to learn a **stochastic discount factor (SDF)** directly fro
 This project will progressively reproduce the main components of the original methodology, beginning with data preparation and benchmark models and then moving toward neural-network, recurrent-network, and adversarial asset-pricing models.
 
 ---
+## Author
+
+**Reza Zamani**
+**Hrafnhildur Líf**
+**Elouan Bahri**
+**Paraj**
+
+UC Berkeley
+Master of Financial Engineering
+
+Research interests include quantitative finance, asset pricing, machine learning, deep learning, portfolio management, and systematic investment strategies.
 
 ## Reference Paper
 
@@ -389,11 +400,4 @@ The goal is to understand, reproduce, and evaluate the methodology presented in 
 
 ---
 
-## Author
 
-**Reza Zamani**
-
-UC Berkeley
-Master of Financial Engineering
-
-Research interests include quantitative finance, asset pricing, machine learning, deep learning, portfolio management, and systematic investment strategies.

@@ -1,0 +1,2 @@
+best_alpha,best_l1_ratio,validation_monthly_sharpe,total_coefficients,nonzero_coefficients,zero_coefficients,sparsity_percent
+1e-07,1.0,1.0291534629194892,92,91,1,1.0869565217391304

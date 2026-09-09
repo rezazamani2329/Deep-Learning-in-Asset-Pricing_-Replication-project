@@ -1,0 +1,4 @@
+split,mean_prediction_std_across_members,median_prediction_std_across_members,maximum_prediction_std_across_members
+train,0.0055179587,0.0042394972,0.06896844
+validation,0.0056916196,0.004252937,0.063719034
+test,0.005685854,0.004325983,0.07379907
